@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "produto": "Jogo CJ ZERO 1",
+            "descricao": "Descrição do jogo 1",
+            "foto": "cj1.jpg",
+            "preco": 101.01
+        },
+        {
+            "id": 2,
+            "produto": "Jogo CJ ZERO 2",
+            "descricao": "Descrição do jogo 2",
+            "foto": "cj2.jpg",
+            "preco": 202.02
+        },
+        {
+            "id": 3,
+            "produto": "Jogo CJ ZERO 3",
+            "descricao": "Descrição do jogo 3",
+            "foto": "cj3.jpg",
+            "preco": 303.03
+        },
+        {
+            "id": 4,
+            "produto": "Jogo CJ ZERO 4",
+            "descricao": "Descrição do jogo 3",
+            "foto": "cat5.jpg",
+            "preco": 404.04
+        }
+    ]
+}
